@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ABC	grafika.py	/^from abc import ABC, abstractmethod$/;"	kind:namespace	line:1
+DEFAULT_CONFIG	grafika.py	/^DEFAULT_CONFIG = {"fill":"red",$/;"	kind:variable	line:5
+MyApp	app.py	/^class MyApp:$/;"	kind:class	line:6
+Oval	grafika.py	/^class Oval(Shape):$/;"	kind:class	line:100
+Point	grafika.py	/^class Point():$/;"	kind:class	line:9
+Rectangle	grafika.py	/^class Rectangle(Shape):$/;"	kind:class	line:86
+Shape	grafika.py	/^class Shape(ABC):$/;"	kind:class	line:28
+__init__	grafika.py	/^    def __init__(self, x, y):$/;"	kind:member	line:10
+__init__	grafika.py	/^    def __init__(self, x, y):$/;"	kind:member	line:101
+__init__	grafika.py	/^    def __init__(self, x, y):$/;"	kind:member	line:87
+__init__	grafika.py	/^    def __init__(self,x,y):$/;"	kind:member	line:29
+__repr__	grafika.py	/^    def __repr__(self):$/;"	kind:member	line:105
+__repr__	grafika.py	/^    def __repr__(self):$/;"	kind:member	line:14
+__repr__	grafika.py	/^    def __repr__(self):$/;"	kind:member	line:38
+__repr__	grafika.py	/^    def __repr__(self):$/;"	kind:member	line:91
+abstractmethod	grafika.py	/^from abc import ABC, abstractmethod$/;"	kind:namespace	line:1
+app.py	app.py	1;"	kind:file	line:1
+button_1	app.py	/^    button_1 = Button(root, text="Procvičování",command=myClick)$/;"	kind:variable	line:30
+button_2	app.py	/^    button_2 = Button(root,text="Test",command=myClick)$/;"	kind:variable	line:32
+clear_canvas	app.py	/^    def clear_canvas(self):$/;"	kind:member	line:35
+clone	grafika.py	/^    def clone(self):$/;"	kind:member	line:20
+colorchooser	app.py	/^from tkinter import messagebox, colorchooser$/;"	kind:namespace	line:3
+detect_cursor	grafika.py	/^    def detect_cursor(self, Point):$/;"	kind:member	line:111
+detect_cursor	grafika.py	/^    def detect_cursor(self, Point):$/;"	kind:member	line:97
+detect_cursor	grafika.py	/^    def detect_cursor(self,Point):$/;"	kind:member	line:83
+draw	grafika.py	/^    def draw(self, canvas):       $/;"	kind:member	line:17
+draw	grafika.py	/^    def draw(self,canvas):$/;"	kind:member	line:108
+draw	grafika.py	/^    def draw(self,canvas):$/;"	kind:member	line:80
+draw	grafika.py	/^    def draw(self,canvas):$/;"	kind:member	line:94
+drawWidgets	app.py	/^    def drawWidgets(self):$/;"	kind:member	line:12
+getX	grafika.py	/^    def getX(self): return self.x$/;"	kind:member	line:25
+getY	grafika.py	/^    def getY(self): return self.y$/;"	kind:member	line:26
+grafika.py	grafika.py	1;"	kind:file	line:1
+height	grafika.py	/^    def height (self):$/;"	kind:member	line:54
+height	grafika.py	/^    def height(self,value):$/;"	kind:member	line:76
+info_box	app.py	/^    def info_box(self):$/;"	kind:member	line:46
+messagebox	app.py	/^from tkinter import messagebox, colorchooser$/;"	kind:namespace	line:3
+myClick	app.py	/^    def myClick():$/;"	kind:member	line:9
+myapp	app.py	/^myapp = MyApp(root)$/;"	kind:variable	line:65
+on_button_press	app.py	/^    def on_button_press(self, event):$/;"	kind:member	line:54
+on_button_release	app.py	/^    def on_button_release(self, event):$/;"	kind:member	line:60
+on_mouse_move	app.py	/^    def on_mouse_move(self, event):$/;"	kind:member	line:51
+redraw_canvas	app.py	/^    def redraw_canvas(self):$/;"	kind:member	line:40
+root	app.py	/^root = Tk()$/;"	kind:variable	line:5
+width	grafika.py	/^    def width (self):$/;"	kind:member	line:50
+width	grafika.py	/^    def width(self,value):$/;"	kind:member	line:72
+x	grafika.py	/^    def x (self):$/;"	kind:member	line:42
+x	grafika.py	/^    def x(self,value):$/;"	kind:member	line:58
+y	grafika.py	/^    def y (self):$/;"	kind:member	line:46
+y	grafika.py	/^    def y(self,value):$/;"	kind:member	line:65

@@ -1,0 +1,1207 @@
+[
+  {
+    "id": 2,
+    "english": "a boy",
+    "czech": "chlapec"
+  },
+  {
+    "id": 3,
+    "english": "a girl",
+    "czech": "dívka"
+  },
+  {
+    "id": 4,
+    "english": "a man",
+    "czech": "muž"
+  },
+  {
+    "id": 5,
+    "english": "an apple",
+    "czech": "jablko"
+  },
+  {
+    "id": 6,
+    "english": "eat",
+    "czech": "jíst"
+  },
+  {
+    "id": 7,
+    "english": "and",
+    "czech": "a"
+  },
+  {
+    "id": 8,
+    "english": "bread",
+    "czech": "chleba"
+  },
+  {
+    "id": 9,
+    "english": "drink",
+    "czech": "pít"
+  },
+  {
+    "id": 10,
+    "english": "water",
+    "czech": "voda"
+  },
+  {
+    "id": 11,
+    "english": "boys",
+    "czech": "chlapci"
+  },
+  {
+    "id": 12,
+    "english": "girls",
+    "czech": "dívky"
+  },
+  {
+    "id": 13,
+    "english": "we",
+    "czech": "my"
+  },
+  {
+    "id": 14,
+    "english": "read",
+    "czech": "číst"
+  },
+  {
+    "id": 15,
+    "english": "bread",
+    "czech": "chleba"
+  },
+  {
+    "id": 16,
+    "english": "a newspaper",
+    "czech": "noviny"
+  },
+  {
+    "id": 17,
+    "english": "men",
+    "czech": "muži"
+  },
+  {
+    "id": 18,
+    "english": "women",
+    "czech": "ženy"
+  },
+  {
+    "id": 19,
+    "english": "milk",
+    "czech": "mléko"
+  },
+  {
+    "id": 20,
+    "english": "a sandwich",
+    "czech": "sendvič"
+  },
+  {
+    "id": 21,
+    "english": "rice",
+    "czech": "rýže"
+  },
+  {
+    "id": 22,
+    "english": "a child",
+    "czech": "dítě"
+  },
+  {
+    "id": 23,
+    "english": "reads",
+    "czech": "čte"
+  },
+  {
+    "id": 24,
+    "english": "a book",
+    "czech": "kniha"
+  },
+  {
+    "id": 25,
+    "english": "it",
+    "czech": "to"
+  },
+  {
+    "id": 26,
+    "english": "children",
+    "czech": "děti"
+  },
+  {
+    "id": 27,
+    "english": "have",
+    "czech": "mít"
+  },
+  {
+    "id": 28,
+    "english": "please",
+    "czech": "prosím"
+  },
+  {
+    "id": 29,
+    "english": "no",
+    "czech": "ne"
+  },
+  {
+    "id": 30,
+    "english": "yes",
+    "czech": "ano"
+  },
+  {
+    "id": 31,
+    "english": "thanks",
+    "czech": "díky"
+  },
+  {
+    "id": 32,
+    "english": "thank you",
+    "czech": "děkuji"
+  },
+  {
+    "id": 33,
+    "english": "sorry",
+    "czech": "promiň"
+  },
+  {
+    "id": 34,
+    "english": "morning",
+    "czech": "ráno"
+  },
+  {
+    "id": 35,
+    "english": "speak",
+    "czech": "mluvit"
+  },
+  {
+    "id": 36,
+    "english": "one",
+    "czech": "jedna"
+  },
+  {
+    "id": 37,
+    "english": "two",
+    "czech": "dva"
+  },
+  {
+    "id": 38,
+    "english": "three",
+    "czech": "tři"
+  },
+  {
+    "id": 39,
+    "english": "four",
+    "czech": "čtyři"
+  },
+  {
+    "id": 40,
+    "english": "five",
+    "czech": "pět"
+  },
+  {
+    "id": 41,
+    "english": "six",
+    "czech": "šest"
+  },
+  {
+    "id": 42,
+    "english": "seven",
+    "czech": "sedm"
+  },
+  {
+    "id": 43,
+    "english": "eight",
+    "czech": "osm"
+  },
+  {
+    "id": 44,
+    "english": "nine",
+    "czech": "devět"
+  },
+  {
+    "id": 45,
+    "english": "ten",
+    "czech": "deset"
+  },
+  {
+    "id": 46,
+    "english": "hundred",
+    "czech": "sto"
+  },
+  {
+    "id": 47,
+    "english": "thousand",
+    "czech": "tisíc"
+  },
+  {
+    "id": 48,
+    "english": "million",
+    "czech": "milión"
+  },
+  {
+    "id": 49,
+    "english": "first",
+    "czech": "první"
+  },
+  {
+    "id": 50,
+    "english": "some",
+    "czech": "nějaký"
+  },
+  {
+    "id": 51,
+    "english": "last",
+    "czech": "poslední"
+  },
+  {
+    "id": 52,
+    "english": "total",
+    "czech": "celkem"
+  },
+  {
+    "id": 53,
+    "english": "much",
+    "czech": "mnoho"
+  },
+  {
+    "id": 54,
+    "english": "many",
+    "czech": "mnoho"
+  },
+  {
+    "id": 55,
+    "english": "more",
+    "czech": "více"
+  },
+  {
+    "id": 56,
+    "english": "per",
+    "czech": "za"
+  },
+  {
+    "id": 57,
+    "english": "less",
+    "czech": "méně"
+  },
+  {
+    "id": 58,
+    "english": "majority",
+    "czech": "většina"
+  },
+  {
+    "id": 59,
+    "english": "half",
+    "czech": "polovina"
+  },
+  {
+    "id": 60,
+    "english": "pair",
+    "czech": "pár"
+  },
+  {
+    "id": 61,
+    "english": "meter",
+    "czech": "metr"
+  },
+  {
+    "id": 62,
+    "english": "amount",
+    "czech": "množství"
+  },
+  {
+    "id": 63,
+    "english": "third",
+    "czech": "třetí"
+  },
+  {
+    "id": 64,
+    "english": "average",
+    "czech": "průměr"
+  },
+  {
+    "id": 65,
+    "english": "fourth",
+    "czech": "čtvrtý"
+  },
+  {
+    "id": 66,
+    "english": "sum",
+    "czech": "součet"
+  },
+  {
+    "id": 67,
+    "english": "numbers",
+    "czech": "čísla"
+  },
+  {
+    "id": 68,
+    "english": "number",
+    "czech": "číslo"
+  },
+  {
+    "id": 69,
+    "english": "january",
+    "czech": "leden"
+  },
+  {
+    "id": 70,
+    "english": "july",
+    "czech": "červenec"
+  },
+  {
+    "id": 71,
+    "english": "february",
+    "czech": "únor"
+  },
+  {
+    "id": 72,
+    "english": "november",
+    "czech": "listopad"
+  },
+  {
+    "id": 73,
+    "english": "june",
+    "czech": "červen"
+  },
+  {
+    "id": 74,
+    "english": "april",
+    "czech": "duben"
+  },
+  {
+    "id": 75,
+    "english": "october",
+    "czech": "říjen"
+  },
+  {
+    "id": 76,
+    "english": "august",
+    "czech": "srpen"
+  },
+  {
+    "id": 77,
+    "english": "september",
+    "czech": "září"
+  },
+  {
+    "id": 78,
+    "english": "december",
+    "czech": "prosinec"
+  },
+  {
+    "id": 79,
+    "english": "may",
+    "czech": "květen"
+  },
+  {
+    "id": 80,
+    "english": "march",
+    "czech": "březen"
+  },
+  {
+    "id": 81,
+    "english": "spring",
+    "czech": "jaro"
+  },
+  {
+    "id": 82,
+    "english": "winter",
+    "czech": "zima"
+  },
+  {
+    "id": 83,
+    "english": "summer",
+    "czech": "léto"
+  },
+  {
+    "id": 84,
+    "english": "period",
+    "czech": "období"
+  },
+  {
+    "id": 85,
+    "english": "months",
+    "czech": "měsíce"
+  },
+  {
+    "id": 86,
+    "english": "today",
+    "czech": "dnes"
+  },
+  {
+    "id": 87,
+    "english": "wednesday",
+    "czech": "středa"
+  },
+  {
+    "id": 88,
+    "english": "sunday",
+    "czech": "neděle"
+  },
+  {
+    "id": 89,
+    "english": "week",
+    "czech": "týden"
+  },
+  {
+    "id": 90,
+    "english": "month",
+    "czech": "měsíc"
+  },
+  {
+    "id": 91,
+    "english": "year",
+    "czech": "rok"
+  },
+  {
+    "id": 92,
+    "english": "hours",
+    "czech": "hodiny"
+  },
+  {
+    "id": 93,
+    "english": "saturday",
+    "czech": "sobota"
+  },
+  {
+    "id": 94,
+    "english": "thursday",
+    "czech": "čtvrtek"
+  },
+  {
+    "id": 95,
+    "english": "fridays",
+    "czech": "pátky"
+  },
+  {
+    "id": 96,
+    "english": "day",
+    "czech": "den"
+  },
+  {
+    "id": 97,
+    "english": "monday",
+    "czech": "pondělí"
+  },
+  {
+    "id": 98,
+    "english": "tuesday",
+    "czech": "úterý"
+  },
+  {
+    "id": 99,
+    "english": "friday",
+    "czech": "pátek"
+  },
+  {
+    "id": 100,
+    "english": "date",
+    "czech": "datum"
+  },
+  {
+    "id": 101,
+    "english": "night",
+    "czech": "noc"
+  },
+  {
+    "id": 102,
+    "english": "tomorrow",
+    "czech": "zítra"
+  },
+  {
+    "id": 103,
+    "english": "afternoon",
+    "czech": "odpoledne"
+  },
+  {
+    "id": 104,
+    "english": "evening",
+    "czech": "večer"
+  },
+  {
+    "id": 105,
+    "english": "decades",
+    "czech": "desetiletí"
+  },
+  {
+    "id": 106,
+    "english": "seconds",
+    "czech": "vteřiny"
+  },
+  {
+    "id": 107,
+    "english": "century",
+    "czech": "století"
+  },
+  {
+    "id": 108,
+    "english": "minutes",
+    "czech": "minuty"
+  },
+  {
+    "id": 109,
+    "english": "minute",
+    "czech": "minuta"
+  },
+  {
+    "id": 110,
+    "english": "centuries",
+    "czech": "století"
+  },
+  {
+    "id": 111,
+    "english": "hour",
+    "czech": "hodina"
+  },
+  {
+    "id": 112,
+    "english": "age",
+    "czech": "věk"
+  },
+  {
+    "id": 113,
+    "english": "until",
+    "czech": "dokud"
+  },
+  {
+    "id": 114,
+    "english": "birth",
+    "czech": "narození"
+  },
+  {
+    "id": 115,
+    "english": "generation",
+    "czech": "generace"
+  },
+  {
+    "id": 116,
+    "english": "party",
+    "czech": "večírek"
+  },
+  {
+    "id": 117,
+    "english": "calendar",
+    "czech": "kalendář"
+  },
+  {
+    "id": 118,
+    "english": "morning",
+    "czech": "ráno"
+  },
+  {
+    "id": 119,
+    "english": "time",
+    "czech": "čas"
+  },
+  {
+    "id": 120,
+    "english": "father",
+    "czech": "otec"
+  },
+  {
+    "id": 121,
+    "english": "daughter",
+    "czech": "dcera"
+  },
+  {
+    "id": 122,
+    "english": "brother",
+    "czech": "bratr"
+  },
+  {
+    "id": 123,
+    "english": "son",
+    "czech": "syn"
+  },
+  {
+    "id": 124,
+    "english": "mothers",
+    "czech": "matky"
+  },
+  {
+    "id": 125,
+    "english": "mother",
+    "czech": "matka"
+  },
+  {
+    "id": 126,
+    "english": "brothers",
+    "czech": "bratři"
+  },
+  {
+    "id": 127,
+    "english": "sister",
+    "czech": "sestra"
+  },
+  {
+    "id": 128,
+    "english": "sisters",
+    "czech": "sestry"
+  },
+  {
+    "id": 129,
+    "english": "daughters",
+    "czech": "dcery"
+  },
+  {
+    "id": 130,
+    "english": "husband",
+    "czech": "manžel"
+  },
+  {
+    "id": 131,
+    "english": "wife",
+    "czech": "manželka"
+  },
+  {
+    "id": 132,
+    "english": "siblings",
+    "czech": "sourozenci"
+  },
+  {
+    "id": 133,
+    "english": "parents",
+    "czech": "rodiče"
+  },
+  {
+    "id": 134,
+    "english": "aunt",
+    "czech": "teta"
+  },
+  {
+    "id": 135,
+    "english": "grandfather",
+    "czech": "děda"
+  },
+  {
+    "id": 136,
+    "english": "marriage",
+    "czech": "manželství"
+  },
+  {
+    "id": 137,
+    "english": "uncle",
+    "czech": "strýc"
+  },
+  {
+    "id": 138,
+    "english": "grandmother",
+    "czech": "babička"
+  },
+  {
+    "id": 139,
+    "english": "name",
+    "czech": "jméno"
+  },
+  {
+    "id": 140,
+    "english": "family",
+    "czech": "rodina"
+  },
+  {
+    "id": 141,
+    "english": "aunts",
+    "czech": "tety"
+  },
+  {
+    "id": 142,
+    "english": "a plate",
+    "czech": "talíř"
+  },
+  {
+    "id": 143,
+    "english": "coffee",
+    "czech": "káva"
+  },
+  {
+    "id": 144,
+    "english": "wine",
+    "czech": "víno"
+  },
+  {
+    "id": 145,
+    "english": "fish",
+    "czech": "ryba"
+  },
+  {
+    "id": 146,
+    "english": "the chicken",
+    "czech": "kuře"
+  },
+  {
+    "id": 147,
+    "english": "an egg",
+    "czech": "vajíčko"
+  },
+  {
+    "id": 148,
+    "english": "sugar",
+    "czech": "cukr"
+  },
+  {
+    "id": 149,
+    "english": "fruit",
+    "czech": "ovoce"
+  },
+  {
+    "id": 150,
+    "english": "cheese",
+    "czech": "sýr"
+  },
+  {
+    "id": 151,
+    "english": "pasta",
+    "czech": "těstoviny"
+  },
+  {
+    "id": 152,
+    "english": "juice",
+    "czech": "džus"
+  },
+  {
+    "id": 153,
+    "english": "a breakfast",
+    "czech": "snídaně"
+  },
+  {
+    "id": 154,
+    "english": "lunch",
+    "czech": "oběd"
+  },
+  {
+    "id": 155,
+    "english": "beef",
+    "czech": "hovězí"
+  },
+  {
+    "id": 156,
+    "english": "beer",
+    "czech": "pivo"
+  },
+  {
+    "id": 157,
+    "english": "food",
+    "czech": "jídlo"
+  },
+  {
+    "id": 158,
+    "english": "a lemon",
+    "czech": "citrón"
+  },
+  {
+    "id": 159,
+    "english": "soup",
+    "czech": "polévka"
+  },
+  {
+    "id": 160,
+    "english": "a strawberry",
+    "czech": "jahoda"
+  },
+  {
+    "id": 161,
+    "english": "a tomato",
+    "czech": "rajče"
+  },
+  {
+    "id": 162,
+    "english": "vegetarian",
+    "czech": "vegetarián"
+  },
+  {
+    "id": 163,
+    "english": "dinner",
+    "czech": "večeře"
+  },
+  {
+    "id": 164,
+    "english": "pork",
+    "czech": "vepřové"
+  },
+  {
+    "id": 165,
+    "english": "salt",
+    "czech": "sůl"
+  },
+  {
+    "id": 166,
+    "english": "tea",
+    "czech": "čaj"
+  },
+  {
+    "id": 167,
+    "english": "meat",
+    "czech": "maso"
+  },
+  {
+    "id": 168,
+    "english": "a cat",
+    "czech": "kočka"
+  },
+  {
+    "id": 169,
+    "english": "a dog",
+    "czech": "pes"
+  },
+  {
+    "id": 170,
+    "english": "a horse",
+    "czech": "kůň"
+  },
+  {
+    "id": 171,
+    "english": "a bird",
+    "czech": "pták"
+  },
+  {
+    "id": 172,
+    "english": "an elephant",
+    "czech": "slon"
+  },
+  {
+    "id": 173,
+    "english": "a duck",
+    "czech": "kachna"
+  },
+  {
+    "id": 174,
+    "english": "a turtle",
+    "czech": "želva"
+  },
+  {
+    "id": 175,
+    "english": "a bear",
+    "czech": "medvěd"
+  },
+  {
+    "id": 176,
+    "english": "an animal",
+    "czech": "zvíře"
+  },
+  {
+    "id": 177,
+    "english": "a mouse",
+    "czech": "myš"
+  },
+  {
+    "id": 178,
+    "english": "a crab",
+    "czech": "krab"
+  },
+  {
+    "id": 179,
+    "english": "a spider",
+    "czech": "pavouk"
+  },
+  {
+    "id": 180,
+    "english": "books",
+    "czech": "knihy"
+  },
+  {
+    "id": 181,
+    "english": "newspapers",
+    "czech": "noviny"
+  },
+  {
+    "id": 182,
+    "english": "dogs",
+    "czech": "psi"
+  },
+  {
+    "id": 183,
+    "english": "horses",
+    "czech": "koně"
+  },
+  {
+    "id": 184,
+    "english": "elephants",
+    "czech": "sloni"
+  },
+  {
+    "id": 185,
+    "english": "apples",
+    "czech": "jablka"
+  },
+  {
+    "id": 186,
+    "english": "cats",
+    "czech": "kočky"
+  },
+  {
+    "id": 187,
+    "english": "animals",
+    "czech": "zvířata"
+  },
+  {
+    "id": 188,
+    "english": "birds",
+    "czech": "ptáci"
+  },
+  {
+    "id": 189,
+    "english": "ducks",
+    "czech": "kachny"
+  },
+  {
+    "id": 190,
+    "english": "plates",
+    "czech": "talíře"
+  },
+  {
+    "id": 191,
+    "english": "turtles",
+    "czech": "želvy"
+  },
+  {
+    "id": 192,
+    "english": "a coat",
+    "czech": "kabát"
+  },
+  {
+    "id": 193,
+    "english": "coats",
+    "czech": "kabáty"
+  },
+  {
+    "id": 194,
+    "english": "a dress",
+    "czech": "šaty"
+  },
+  {
+    "id": 195,
+    "english": "a shirt",
+    "czech": "košile"
+  },
+  {
+    "id": 196,
+    "english": "a shoe",
+    "czech": "bota"
+  },
+  {
+    "id": 197,
+    "english": "shoes",
+    "czech": "boty"
+  },
+  {
+    "id": 198,
+    "english": "a skirt",
+    "czech": "sukně"
+  },
+  {
+    "id": 199,
+    "english": "clothes",
+    "czech": "oblečení"
+  },
+  {
+    "id": 200,
+    "english": "a hat",
+    "czech": "čepice"
+  },
+  {
+    "id": 201,
+    "english": "pants",
+    "czech": "kalhoty"
+  },
+  {
+    "id": 202,
+    "english": "a suit",
+    "czech": "oblek"
+  },
+  {
+    "id": 203,
+    "english": "see",
+    "czech": "vidět"
+  },
+  {
+    "id": 204,
+    "english": "swim",
+    "czech": "plavat"
+  },
+  {
+    "id": 205,
+    "english": "swims",
+    "czech": "plave"
+  },
+  {
+    "id": 206,
+    "english": "walk",
+    "czech": "chodit"
+  },
+  {
+    "id": 207,
+    "english": "walks",
+    "czech": "chodí"
+  },
+  {
+    "id": 208,
+    "english": "write",
+    "czech": "psát"
+  },
+  {
+    "id": 209,
+    "english": "cook",
+    "czech": "vařit"
+  },
+  {
+    "id": 210,
+    "english": "run",
+    "czech": "běžet"
+  },
+  {
+    "id": 211,
+    "english": "pay",
+    "czech": "zaplatit"
+  },
+  {
+    "id": 212,
+    "english": "want",
+    "czech": "chtít"
+  },
+  {
+    "id": 213,
+    "english": "go",
+    "czech": "jít"
+  },
+  {
+    "id": 214,
+    "english": "love",
+    "czech": "milovat"
+  },
+  {
+    "id": 215,
+    "english": "play",
+    "czech": "hrát"
+  },
+  {
+    "id": 216,
+    "english": "use",
+    "czech": "použít"
+  },
+  {
+    "id": 217,
+    "english": "hear",
+    "czech": "slyšet"
+  },
+  {
+    "id": 218,
+    "english": "hears",
+    "czech": "slyší"
+  },
+  {
+    "id": 219,
+    "english": "say",
+    "czech": "říci"
+  },
+  {
+    "id": 220,
+    "english": "says",
+    "czech": "říká"
+  },
+  {
+    "id": 221,
+    "english": "know",
+    "czech": "vědět"
+  },
+  {
+    "id": 222,
+    "english": "need",
+    "czech": "potřebovat"
+  },
+  {
+    "id": 223,
+    "english": "support",
+    "czech": "podpořit"
+  },
+  {
+    "id": 224,
+    "english": "tell",
+    "czech": "říkat"
+  },
+  {
+    "id": 225,
+    "english": "work",
+    "czech": "pracovat"
+  },
+  {
+    "id": 226,
+    "english": "find",
+    "czech": "najít"
+  },
+  {
+    "id": 227,
+    "english": "show",
+    "czech": "ukázat"
+  },
+  {
+    "id": 228,
+    "english": "take",
+    "czech": "vzít"
+  },
+  {
+    "id": 229,
+    "english": "red",
+    "czech": "červená"
+  },
+  {
+    "id": 230,
+    "english": "green",
+    "czech": "zelená"
+  },
+  {
+    "id": 231,
+    "english": "white",
+    "czech": "bílá"
+  },
+  {
+    "id": 232,
+    "english": "blue",
+    "czech": "modrá"
+  },
+  {
+    "id": 233,
+    "english": "orange",
+    "czech": "oranžová"
+  },
+  {
+    "id": 234,
+    "english": "yellow",
+    "czech": "žlutá"
+  },
+  {
+    "id": 235,
+    "english": "black",
+    "czech": "černá"
+  },
+  {
+    "id": 236,
+    "english": "gray",
+    "czech": "šedá"
+  },
+  {
+    "id": 237,
+    "english": "color",
+    "czech": "barva"
+  },
+  {
+    "id": 238,
+    "english": "purple",
+    "czech": "fialová"
+  },
+  {
+    "id": 239,
+    "english": "colorful",
+    "czech": "barevný"
+  },
+  {
+    "id": 240,
+    "english": "pink",
+    "czech": "růžová"
+  },
+  {
+    "id": 241,
+    "english": "brown",
+    "czech": "hnědá"
+  },
+  {
+    "id": 242,
+    "english": "colors",
+    "czech": "barvy"
+  }
+]
