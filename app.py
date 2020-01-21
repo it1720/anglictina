@@ -20,7 +20,7 @@ class MyApp:
         self.start = 0
         # Dokončení procvičování nebo testu
         self.end = 0
-        # Stisknutí textu další
+        # Při stisku textu "další" -> self.next=1
         self.next=0
         self.parent = parent
         self.drawWidgets()
@@ -34,7 +34,7 @@ class MyApp:
         self.questions=[]
         # Vygenerované české slovo
         self.questions_cz=[]
-        # Zadané slovo
+        # Uživatelem zadané slovo
         self.word=[]
         # Aktuální slovo v češtině
         self.actual_word=""
@@ -89,8 +89,6 @@ class MyApp:
 
 
     def generate_words(self):
-        a=1
-        c=1
         end=0
         if(self.practise_test==1):
             self.word.clear()
@@ -184,7 +182,7 @@ class MyApp:
                 self.next=0
                 self.words_number=0
                 self.generate_words()
-            # Testování konce stestu
+            # Testování konce testu
             if(self.practise_test==1):
                 if(len(self.questions_cz)==20):
                     self.end=1
@@ -218,6 +216,7 @@ class MyApp:
                             self.clear_canvas()
                             self.canvas.create_text(440,200,fill="darkblue",font="Helvetica 75",
                             text=self.actual_word_eng +" ("+ str(len(self.actual_word)) +")")
+                            # Vypsání zadaných znaků na obrazovku
                             for q in range (1,int(self.words_number)+1):
                                 self.clear_canvas()
                                 self.canvas.create_text(440,200,fill="darkblue",font="Helvetica 75",
@@ -226,7 +225,7 @@ class MyApp:
                                     text=self.word)
                             self.canvas.create_text(440,550,fill="darkblue",font="Helvetica 10",
                                 text="Pro odeslání stiskněte enter")
-                # Když zadal povolený znak, uloží se a vypíše na obrazovku
+                # Když zadal povolený znak, uloží se do slova
                 else:
                     self.words_number+=1
                     self.word+=event.char
@@ -248,7 +247,7 @@ class MyApp:
         return False
 
     def enter(self,event):
-        # Spojení znaků
+        # Spojení zadaných znaků
         worda=""
         if(self.start==1 and self.next==0):
             for a in self.word:
@@ -266,11 +265,11 @@ class MyApp:
             if(worda!=self.actual_word and self.practise_test==0):
                 print(self.word)
                 self.clear_canvas()
-                self.canvas.create_text(390,400,fill="red",font="Helvetica 75",
+                self.canvas.create_text(440,400,fill="red",font="Helvetica 75",
                             text=self.actual_word)
             if(worda==self.actual_word and self.practise_test==0):
                 self.clear_canvas()
-                self.canvas.create_text(390,400,fill="green",font="Helvetica 75",
+                self.canvas.create_text(440,400,fill="green",font="Helvetica 75",
                             text=self.actual_word)
             if(self.practise_test==0):
                     self.next=1           
@@ -323,9 +322,7 @@ class MyApp:
         # Vypočítaní celkové úspěšnosti
         data['pocet']=int(data['pocet'])+1
         data['uspech']=round((int(data['uspech']) * int(data['pocet']-1) + result) / (int(data['pocet'])),2)
-        print(result)
-        print(int(data['uspech']))
-        print(int(data['pocet']))
+        # Uložení do souboru
         with open('data.json', 'w') as outfile:
             json.dump(data, outfile)
         self.canvas.create_text(440,450,fill="darkblue",font="Helvetica 35",
